@@ -25,4 +25,6 @@ class Premium(Servicio):
 
 producto1=Producto('camisa', 10, 9.95)
 producto1.Informacion()
+Estandar.consultarDetalle()
+Premium.consultarDetalle()
 
